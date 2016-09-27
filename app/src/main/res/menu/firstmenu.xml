@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Pokemon"
+        android:title="Pokemon">
+    </item>
+    <item android:id="@+id/Items"
+        android:title="Items"></item>
+    <item android:id="@+id/Pokedex"
+        android:title="Pokedex"></item>
+    <item android:id="@+id/Settings"
+        android:title="Setting"></item>
+
+</menu>
